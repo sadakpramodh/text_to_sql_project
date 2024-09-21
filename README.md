@@ -36,5 +36,5 @@ This project is a text-to-SQL application that converts natural language queries
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/text-to-sql-project.git
+   git clone https://github.com/sadakpramodh/text-to-sql-project.git
    cd text-to-sql-project
