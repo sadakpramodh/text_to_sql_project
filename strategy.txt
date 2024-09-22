@@ -1,0 +1,2 @@
+step 1:
+Find the database of sales. Its good to have 1 million records of 3 years spread.
